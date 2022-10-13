@@ -1,0 +1,9 @@
+ #pergeseran::-webkit-scrollbar {
+      display: none;
+    }
+    :root {
+      --warna-bg: rgba(0, 0, 0, 0.7);
+      --warna-teks: white;
+      --bingkai: 14px;
+      --gaya-font: "Josefin Sans", sans-serif;
+    }
