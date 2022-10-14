@@ -176,7 +176,7 @@ async function jawab() {
   }
 }
 async function lanjut() {
-  await swals.fire("Selamat datang!", "Sekarang lihat ini ya :)");
+  await swals.fire("Happy Birthday for you!", "Silahkan buka :)");
   showDiv();
   audio.play();
 }
